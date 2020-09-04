@@ -1,4 +1,5 @@
 import add from './add'
+import addition from './addition'
 import arrayAverage from './array-average'
 import arrayFill from './array-fill'
 import median from './array-median'
@@ -122,6 +123,7 @@ export {
   removeDuplicates,
   removeFalsy,
   add,
+  addition,
   subtract,
   divide,
   multiply,
